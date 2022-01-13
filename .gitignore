@@ -1,4 +1,4 @@
-src/config/*
-src/data/*
-src/model/*
-doc/*
+deprecated/*
+deprecated/**
+Project.md
+data/*
